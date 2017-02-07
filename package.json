@@ -1,0 +1,9 @@
+{
+  "name": "gruvbox",
+  "version": "1.0.0",
+  "description": "gruvbox color scheme for javascript",
+  "main": "index.js",
+  "repository": "git@github.com:chee/gruvbox.js",
+  "author": "chee <chee@snake.dog>",
+  "license": "MIT"
+}
