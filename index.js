@@ -1,3 +1,4 @@
+const dark0Hard = '#1d2021'
 const dark0 = '#282828'
 const dark0Soft = '#32302f'
 const dark1 = '#3c3836'
@@ -41,6 +42,7 @@ const fadedAqua = '#427b58'
 const fadedOrange = '#af3a03'
 
 module.exports = {
+  dark0Hard,
   dark0Soft,
   dark0,
   dark1,
@@ -48,6 +50,7 @@ module.exports = {
   dark3,
   dark4,
   dark: {
+    hard: dark0Hard,
     soft: dark0Soft,
     0: dark0,
     1: dark1,
