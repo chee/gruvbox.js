@@ -4,6 +4,6 @@
   "description": "gruvbox color scheme for javascript",
   "main": "index.js",
   "repository": "git@github.com:chee/gruvbox.js",
-  "author": "chee <chee@snake.dog>",
+  "author": "chee <yay@chee.party>",
   "license": "MIT"
 }
